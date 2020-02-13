@@ -1,2 +1,4 @@
 pomme 
 poire
+framboise 
+fraise
