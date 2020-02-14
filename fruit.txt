@@ -1,6 +1,3 @@
-pomme 
-poire
-framboise 
-fraise
+Fraise
 Ananas
 Carambole
