@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 epices
 epices2
-||||||| 9c74f28
-=======
 curry
 poivre
 origan
->>>>>>> ecb95afe19f3f1cc7743e78811283c42209d4cbb
+
