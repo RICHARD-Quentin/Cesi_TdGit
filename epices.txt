@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Coriandre
 Curry
-||||||| 9c74f28
-=======
-curry
+epices
+epices2
 poivre
 origan
->>>>>>> bf1a87802330b5f9949b341ed17fd4be4b36365a
